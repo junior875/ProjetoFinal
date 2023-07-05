@@ -1,0 +1,537 @@
+ Escalanodar Sistema Ooeracional Embarcado 
+
+Escalonador SRTL Cooperativo  e    Escalonador Multi-Filas
+
+
+ Executando o SRTN (Shortest Remaining-Time Next) : 
+
+                                Processos                                          
+========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+ ========  Nome do Processo: Breaking_Badlands - Período: 3 - Tempo: 2 
+ ========  Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+ ========  Nome do Processo: Game_Thrones - Período: 5 - Tempo: 3 
+ ========  Nome do Processo: The_Walking_Justice - Período: 4 - Tempo: 1 
+ ========  Nome do Processo: Friends_Forever - Período: 3 - Tempo: 2 
+ ========  Nome do Processo: Black_Mirrorverse - Período: 2 - Tempo: 4 
+ ========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+  The_Walking_Justice! 
+ 
+                                Processos                                          
+========  Nome do Processo: Breaking_Badlands - Período: 3 - Tempo: 2 
+ ========  Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+ ========  Nome do Processo: Game_Thrones - Período: 5 - Tempo: 3 
+ ========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+ ========  Nome do Processo: Friends_Forever - Período: 3 - Tempo: 2 
+ ========  Nome do Processo: Black_Mirrorverse - Período: 2 - Tempo: 4 
+ ========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+ ========  Nome do Processo: The_Walking_Justice - Período: 3 - Tempo: 1 
+  The_Walking_Justice! 
+ 
+                                Processos                                          
+========  Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+ ========  Nome do Processo: Game_Thrones - Período: 5 - Tempo: 3 
+ ========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+ ========  Nome do Processo: Friends_Forever - Período: 3 - Tempo: 2 
+ ========  Nome do Processo: Black_Mirrorverse - Período: 2 - Tempo: 4 
+ ========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+ ========  Nome do Processo: Breaking_Badlands - Período: 3 - Tempo: 2 
+ ========  Nome do Processo: The_Walking_Justice - Período: 2 - Tempo: 1 
+  The_Walking_Justice! 
+ 
+                                Processos                                          
+========  Nome do Processo: Game_Thrones - Período: 5 - Tempo: 3 
+ ========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+ ========  Nome do Processo: Friends_Forever - Período: 3 - Tempo: 2 
+ ========  Nome do Processo: Black_Mirrorverse - Período: 2 - Tempo: 4 
+ ========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+ ========  Nome do Processo: Breaking_Badlands - Período: 3 - Tempo: 2 
+ ========  Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+ ========  Nome do Processo: The_Walking_Justice - Período: 1 - Tempo: 1 
+  The_Walking_Justice! 
+ 
+                                Processos                                          
+========  Nome do Processo: Friends_Forever - Período: 3 - Tempo: 2 
+ ========  Nome do Processo: Black_Mirrorverse - Período: 2 - Tempo: 4 
+ ========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+ ========  Nome do Processo: Breaking_Badlands - Período: 3 - Tempo: 2 
+ ========  Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+ ========  Nome do Processo: Game_Thrones - Período: 5 - Tempo: 3 
+ ========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+  Friends_Forever! 
+ 
+                                Processos                                          
+========  Nome do Processo: Black_Mirrorverse - Período: 2 - Tempo: 4 
+ ========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+ ========  Nome do Processo: Breaking_Badlands - Período: 3 - Tempo: 2 
+ ========  Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+ ========  Nome do Processo: Game_Thrones - Período: 5 - Tempo: 3 
+ ========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+ ========  Nome do Processo: Friends_Forever - Período: 2 - Tempo: 2 
+  Breaking_Badlands! 
+ 
+                                Processos                                          
+========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+ ========  Nome do Processo: Black_Mirrorverse - Período: 2 - Tempo: 4 
+ ========  Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+ ========  Nome do Processo: Game_Thrones - Período: 5 - Tempo: 3 
+ ========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+ ========  Nome do Processo: Friends_Forever - Período: 2 - Tempo: 2 
+ ========  Nome do Processo: Breaking_Badlands - Período: 2 - Tempo: 2 
+  Friends_Forever! 
+ 
+                                Processos                                          
+========  Nome do Processo: Black_Mirrorverse - Período: 2 - Tempo: 4 
+ ========  Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+ ========  Nome do Processo: Game_Thrones - Período: 5 - Tempo: 3 
+ ========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+ ========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+ ========  Nome do Processo: Breaking_Badlands - Período: 2 - Tempo: 2 
+ ========  Nome do Processo: Friends_Forever - Período: 1 - Tempo: 1 
+  Friends_Forever! 
+ 
+                                Processos                                          
+========  Nome do Processo: Game_Thrones - Período: 5 - Tempo: 3 
+ ========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+ ========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+ ========  Nome do Processo: Breaking_Badlands - Período: 2 - Tempo: 2 
+ ========  Nome do Processo: Black_Mirrorverse - Período: 2 - Tempo: 4 
+ ========  Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+  Breaking_Badlands! 
+ 
+                                Processos                                          
+========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+ ========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+ ========  Nome do Processo: Game_Thrones - Período: 5 - Tempo: 3 
+ ========  Nome do Processo: Black_Mirrorverse - Período: 2 - Tempo: 4 
+ ========  Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+ ========  Nome do Processo: Breaking_Badlands - Período: 1 - Tempo: 1 
+  Breaking_Badlands! 
+ 
+                                Processos                                          
+========  Nome do Processo: Game_Thrones - Período: 5 - Tempo: 3 
+ ========  Nome do Processo: Black_Mirrorverse - Período: 2 - Tempo: 4 
+ ========  Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+ ========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+ ========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+  Game_Thrones! 
+ 
+                                Processos                                          
+========  Nome do Processo: Black_Mirrorverse - Período: 2 - Tempo: 4 
+ ========  Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+ ========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+ ========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+ ========  Nome do Processo: Game_Thrones - Período: 4 - Tempo: 3 
+  Game_Thrones! 
+ 
+                                Processos                                          
+========  Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+ ========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+ ========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+ ========  Nome do Processo: Black_Mirrorverse - Período: 2 - Tempo: 4 
+ ========  Nome do Processo: Game_Thrones - Período: 3 - Tempo: 3 
+  Game_Thrones! 
+ 
+                                Processos                                          
+========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+ ========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+ ========  Nome do Processo: Black_Mirrorverse - Período: 2 - Tempo: 4 
+ ========  Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+ ========  Nome do Processo: Game_Thrones - Período: 2 - Tempo: 2 
+  Game_Thrones! 
+ 
+                                Processos                                          
+========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+ ========  Nome do Processo: Black_Mirrorverse - Período: 2 - Tempo: 4 
+ ========  Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+ ========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+ ========  Nome do Processo: Game_Thrones - Período: 1 - Tempo: 1 
+  Game_Thrones! 
+ 
+                                Processos                                          
+========  Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+ ========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+ ========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+ ========  Nome do Processo: Black_Mirrorverse - Período: 2 - Tempo: 4 
+  Black_Mirrorverse! 
+ 
+                                Processos                                          
+========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+ ========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+ ========  Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+ ========  Nome do Processo: Black_Mirrorverse - Período: 1 - Tempo: 1 
+  Black_Mirrorverse! 
+ 
+                                Processos                                          
+========  Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+ ========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+ ========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+  Stranger_Crimes! 
+ 
+                                Processos                                          
+========  Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+ ========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+  The_Office_Adventures! 
+ 
+                                Processos                                          
+========  Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+  Dark_Mysteries! 
+ 
+                                Processos                                          
+========  Nome do Processo: Dark_Mysteries - Período: 1 - Tempo: 1 
+  Dark_Mysteries! 
+ 
+
+
+
+ Executando o Múltiplas filas com realimentação: 
+
+                           Processos                                        
+======== Nome do Processo: Dark_Mysteries - Período: 8 - Tempo: 8 
+======== Nome do Processo: Breaking_Badlands - Período: 2 - Tempo: 2 
+======== Nome do Processo: Stranger_Crimes - Período: 5 - Tempo: 5 
+======== Nome do Processo: Game_Thrones - Período: 3 - Tempo: 3 
+======== Nome do Processo: The_Walking_Justice - Período: 1 - Tempo: 1 
+======== Nome do Processo: Friends_Forever - Período: 2 - Tempo: 2 
+======== Nome do Processo: Black_Mirrorverse - Período: 4 - Tempo: 4 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+Fila-atual = 0
+
+            Fila SRT              
+ Breaking_Badlands! 
+
+                           Processos                                        
+======== Nome do Processo: Breaking_Badlands - Período: 1 - Tempo: 2 
+======== Nome do Processo: Stranger_Crimes - Período: 5 - Tempo: 5 
+======== Nome do Processo: Game_Thrones - Período: 3 - Tempo: 3 
+======== Nome do Processo: Dark_Mysteries - Período: 8 - Tempo: 8 
+======== Nome do Processo: Friends_Forever - Período: 2 - Tempo: 2 
+======== Nome do Processo: Black_Mirrorverse - Período: 4 - Tempo: 4 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+======== Nome do Processo: The_Walking_Justice - Período: 1 - Tempo: 1 
+Fila-atual = 1
+
+            Fila SRT              
+ The_Walking_Justice! 
+
+
+Finalizando processo The_Walking_Justice!
+
+                           Processos                                        
+======== Nome do Processo: Breaking_Badlands - Período: 1 - Tempo: 2 
+======== Nome do Processo: Stranger_Crimes - Período: 5 - Tempo: 5 
+======== Nome do Processo: Game_Thrones - Período: 3 - Tempo: 3 
+======== Nome do Processo: Dark_Mysteries - Período: 8 - Tempo: 8 
+======== Nome do Processo: Friends_Forever - Período: 2 - Tempo: 2 
+======== Nome do Processo: Black_Mirrorverse - Período: 4 - Tempo: 4 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+Fila-atual = 0
+
+            Fila SRT              
+ Stranger_Crimes! 
+
+                           Processos                                        
+======== Nome do Processo: Stranger_Crimes - Período: 4 - Tempo: 5 
+======== Nome do Processo: Game_Thrones - Período: 3 - Tempo: 3 
+======== Nome do Processo: Dark_Mysteries - Período: 8 - Tempo: 8 
+======== Nome do Processo: Friends_Forever - Período: 2 - Tempo: 2 
+======== Nome do Processo: Black_Mirrorverse - Período: 4 - Tempo: 4 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+======== Nome do Processo: Breaking_Badlands - Período: 2 - Tempo: 2 
+Fila-atual = 1
+
+            Fila SRT              
+ Breaking_Badlands! 
+
+                           Processos                                        
+======== Nome do Processo: Stranger_Crimes - Período: 4 - Tempo: 5 
+======== Nome do Processo: Game_Thrones - Período: 3 - Tempo: 3 
+======== Nome do Processo: Dark_Mysteries - Período: 8 - Tempo: 8 
+======== Nome do Processo: Friends_Forever - Período: 2 - Tempo: 2 
+======== Nome do Processo: Black_Mirrorverse - Período: 4 - Tempo: 4 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+======== Nome do Processo: Breaking_Badlands - Período: 1 - Tempo: 2 
+Fila-atual = 0
+
+            Fila SRT              
+ Game_Thrones! 
+
+                           Processos                                        
+======== Nome do Processo: Game_Thrones - Período: 2 - Tempo: 3 
+======== Nome do Processo: Dark_Mysteries - Período: 8 - Tempo: 8 
+======== Nome do Processo: Stranger_Crimes - Período: 4 - Tempo: 5 
+======== Nome do Processo: Black_Mirrorverse - Período: 4 - Tempo: 4 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+======== Nome do Processo: Breaking_Badlands - Período: 1 - Tempo: 2 
+======== Nome do Processo: Friends_Forever - Período: 2 - Tempo: 2 
+Fila-atual = 1
+
+            Fila SRT              
+ Breaking_Badlands! 
+
+
+Finalizando processo Breaking_Badlands!
+
+                           Processos                                        
+======== Nome do Processo: Game_Thrones - Período: 2 - Tempo: 3 
+======== Nome do Processo: Dark_Mysteries - Período: 8 - Tempo: 8 
+======== Nome do Processo: Stranger_Crimes - Período: 4 - Tempo: 5 
+======== Nome do Processo: Black_Mirrorverse - Período: 4 - Tempo: 4 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+======== Nome do Processo: Friends_Forever - Período: 2 - Tempo: 2 
+Fila-atual = 0
+
+            Fila SRT              
+ Dark_Mysteries! 
+
+                           Processos                                        
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+======== Nome do Processo: Stranger_Crimes - Período: 4 - Tempo: 5 
+======== Nome do Processo: Black_Mirrorverse - Período: 4 - Tempo: 4 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+======== Nome do Processo: Friends_Forever - Período: 2 - Tempo: 2 
+======== Nome do Processo: Game_Thrones - Período: 3 - Tempo: 3 
+Fila-atual = 1
+
+            Fila SRT              
+ Friends_Forever! 
+
+                           Processos                                        
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+======== Nome do Processo: Stranger_Crimes - Período: 4 - Tempo: 5 
+======== Nome do Processo: Black_Mirrorverse - Período: 4 - Tempo: 4 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+======== Nome do Processo: Friends_Forever - Período: 1 - Tempo: 2 
+======== Nome do Processo: Game_Thrones - Período: 3 - Tempo: 3 
+Fila-atual = 0
+
+            Fila SRT              
+ Stranger_Crimes! 
+
+                           Processos                                        
+======== Nome do Processo: Stranger_Crimes - Período: 3 - Tempo: 5 
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+======== Nome do Processo: Black_Mirrorverse - Período: 4 - Tempo: 4 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+======== Nome do Processo: Friends_Forever - Período: 1 - Tempo: 2 
+======== Nome do Processo: Game_Thrones - Período: 3 - Tempo: 3 
+Fila-atual = 1
+
+            Fila SRT              
+ Friends_Forever! 
+
+
+Finalizando processo Friends_Forever!
+
+                           Processos                                        
+======== Nome do Processo: Stranger_Crimes - Período: 3 - Tempo: 5 
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+======== Nome do Processo: Black_Mirrorverse - Período: 4 - Tempo: 4 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+======== Nome do Processo: Game_Thrones - Período: 3 - Tempo: 3 
+Fila-atual = 0
+
+            Fila SRT              
+ Stranger_Crimes! 
+
+                           Processos                                        
+======== Nome do Processo: Stranger_Crimes - Período: 2 - Tempo: 5 
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+======== Nome do Processo: Black_Mirrorverse - Período: 4 - Tempo: 4 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+======== Nome do Processo: Game_Thrones - Período: 3 - Tempo: 3 
+Fila-atual = 1
+
+            Fila SRT              
+ Game_Thrones! 
+
+                           Processos                                        
+======== Nome do Processo: Stranger_Crimes - Período: 2 - Tempo: 5 
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+======== Nome do Processo: Black_Mirrorverse - Período: 4 - Tempo: 4 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+======== Nome do Processo: Game_Thrones - Período: 2 - Tempo: 3 
+Fila-atual = 0
+
+            Fila SRT              
+ Stranger_Crimes! 
+
+                           Processos                                        
+======== Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+======== Nome do Processo: Black_Mirrorverse - Período: 4 - Tempo: 4 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+======== Nome do Processo: Game_Thrones - Período: 2 - Tempo: 3 
+Fila-atual = 1
+
+            Fila SRT              
+ Game_Thrones! 
+
+                           Processos                                        
+======== Nome do Processo: Stranger_Crimes - Período: 1 - Tempo: 5 
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+======== Nome do Processo: Black_Mirrorverse - Período: 4 - Tempo: 4 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+======== Nome do Processo: Game_Thrones - Período: 1 - Tempo: 3 
+Fila-atual = 0
+
+            Fila SRT              
+ Stranger_Crimes! 
+
+
+Finalizando processo Stranger_Crimes!
+
+                           Processos                                        
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+======== Nome do Processo: Black_Mirrorverse - Período: 4 - Tempo: 4 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+======== Nome do Processo: Game_Thrones - Período: 1 - Tempo: 3 
+Fila-atual = 1
+
+            Fila SRT              
+ Game_Thrones! 
+
+
+Finalizando processo Game_Thrones!
+
+                           Processos                                        
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+======== Nome do Processo: Black_Mirrorverse - Período: 4 - Tempo: 4 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+Fila-atual = 0
+
+            Fila SRT              
+ Black_Mirrorverse! 
+
+                           Processos                                        
+======== Nome do Processo: Black_Mirrorverse - Período: 3 - Tempo: 4 
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+Fila-atual = 0
+
+            Fila SRT              
+ Black_Mirrorverse! 
+
+                           Processos                                        
+======== Nome do Processo: Black_Mirrorverse - Período: 2 - Tempo: 4 
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+Fila-atual = 0
+
+            Fila SRT              
+ Black_Mirrorverse! 
+
+                           Processos                                        
+======== Nome do Processo: Black_Mirrorverse - Período: 1 - Tempo: 4 
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+Fila-atual = 0
+
+            Fila SRT              
+ Black_Mirrorverse! 
+
+
+Finalizando processo Black_Mirrorverse!
+
+                           Processos                                        
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+======== Nome do Processo: The_Office_Adventures - Período: 6 - Tempo: 6 
+Fila-atual = 0
+
+            Fila SRT              
+ The_Office_Adventures! 
+
+                           Processos                                        
+======== Nome do Processo: The_Office_Adventures - Período: 5 - Tempo: 6 
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+Fila-atual = 0
+
+            Fila SRT              
+ The_Office_Adventures! 
+
+                           Processos                                        
+======== Nome do Processo: The_Office_Adventures - Período: 4 - Tempo: 6 
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+Fila-atual = 0
+
+            Fila SRT              
+ The_Office_Adventures! 
+
+                           Processos                                        
+======== Nome do Processo: The_Office_Adventures - Período: 3 - Tempo: 6 
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+Fila-atual = 0
+
+            Fila SRT              
+ The_Office_Adventures! 
+
+                           Processos                                        
+======== Nome do Processo: The_Office_Adventures - Período: 2 - Tempo: 6 
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+Fila-atual = 0
+
+            Fila SRT              
+ The_Office_Adventures! 
+
+                           Processos                                        
+======== Nome do Processo: The_Office_Adventures - Período: 1 - Tempo: 6 
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+Fila-atual = 0
+
+            Fila SRT              
+ The_Office_Adventures! 
+
+
+Finalizando processo The_Office_Adventures!
+
+                           Processos                                        
+======== Nome do Processo: Dark_Mysteries - Período: 7 - Tempo: 8 
+Fila-atual = 0
+
+            Fila SRT              
+ Dark_Mysteries! 
+
+                           Processos                                        
+======== Nome do Processo: Dark_Mysteries - Período: 6 - Tempo: 8 
+Fila-atual = 0
+
+            Fila SRT              
+ Dark_Mysteries! 
+
+                           Processos                                        
+======== Nome do Processo: Dark_Mysteries - Período: 5 - Tempo: 8 
+Fila-atual = 0
+
+            Fila SRT              
+ Dark_Mysteries! 
+
+                           Processos                                        
+======== Nome do Processo: Dark_Mysteries - Período: 4 - Tempo: 8 
+Fila-atual = 0
+
+            Fila SRT              
+ Dark_Mysteries! 
+
+                           Processos                                        
+======== Nome do Processo: Dark_Mysteries - Período: 3 - Tempo: 8 
+Fila-atual = 0
+
+            Fila SRT              
+ Dark_Mysteries! 
+
+                           Processos                                        
+======== Nome do Processo: Dark_Mysteries - Período: 2 - Tempo: 8 
+Fila-atual = 0
+
+            Fila SRT              
+ Dark_Mysteries! 
+
+                           Processos                                        
+======== Nome do Processo: Dark_Mysteries - Período: 1 - Tempo: 8 
+Fila-atual = 0
+
+            Fila SRT              
+ Dark_Mysteries! 
+
+
+Finalizando processo Dark_Mysteries!
+
